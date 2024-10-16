@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MartinMShaba aka Martin Shabangu
+- 👋 Hi, I’m  Martin Shabangu
 - 👀 I’m interested in all things tech and active running 
 - 🌱 I’m currently learning Web developemnt to combine it with Data Analytics and Data Science projects
 - 💞️ I’m looking to collaborate on data driven world problems solving initiatives
